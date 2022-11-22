@@ -1,0 +1,6 @@
+## Interface: 100002
+## Title: Expansion Reagents
+## Notes: Adds information what expansion given crafting reagent belongs to
+## Author: Vampyr78
+## Version: 1.0
+ExpansionReagents.lua
