@@ -993,7 +993,21 @@ ExpansionReagents.wod = {108257,		--Truesteel Ingot
 						 124669,		--Darkmoon Daggermaw
 						 127759,		--Felblight
 						 128499,		--Fel Egg
-						 128500}		--Fel Ham
+						 128500,		--Fel Ham
+						 202216,		--Impressive Burnished Essence
+						 202218,		--Impressive Hexweave Essence
+						 202212,		--Impressive Linkgrease Locksprocket
+						 202208,		--Impressive Steelforged Essence
+						 202214,		--Impressive True Iron Trigger
+						 202210,		--Impressive Truesteel Essence
+						 202220,		--Impressive Weapon Crystal
+						 202217,		--Remarkable Burnished Essence
+						 202219,		--Remarkable Hexweave Essence
+						 202213,		--Remarkable Linkgrease Locksprocket
+						 202209,		--Remarkable Steelforged Essence
+						 202215,		--Remarkable True Iron Trigger
+						 202211,		--Remarkable Truesteel Essence
+						 202221}		--Remarkable Weapon Crystal
 
 ExpansionReagents.legion = {123918,		--Leystone Ore
 							123919,		--Felslate
@@ -1211,10 +1225,6 @@ ExpansionReagents.bfa = {152505,		--Riverbud
 						 168303,		--Rubbery Flank
 						 168327,		--Chain Ignitercoil
 						 168487,		--Zin'anthid
-						 168583,		--Widowbloom
-						 168586,		--Rising Glory
-						 168589,		--Marrowroot
-						 168591,		--Marrowroot Petal
 						 168635,		--Leviathan's Eye
 						 168645,		--Moist Fillet
 						 168646,		--Mauve Stinger
@@ -1223,18 +1233,21 @@ ExpansionReagents.bfa = {152505,		--Riverbud
 						 168662,		--Maroon Pigment
 						 168663,		--Maroon Ink
 						 168832,		--Galvanic Oscillator
-						 169550,		--Rising Glory Petal
 						 169610,		--S.P.A.R.E. Crate
-						 169698,		--Widowbloom Petal
-						 169699,		--Vigil's Torch Petal
-						 169700,		--Death Blossom Petal
-						 169701,		--Death Blossom
-						 171315,		--Nightshade
 						 174327,		--Malformed Gnasher
 						 174328,		--Aberrant Voidfin
 						 174353}		--Questionable Meat
 
-ExpansionReagents.shadowlands = {170554,		--Vigil's Torch
+ExpansionReagents.shadowlands = {168583,		--Widowbloom
+								 168586,		--Rising Glory
+								 168589,		--Marrowroot
+								 168591,		--Marrowroot Petal
+								 169550,		--Rising Glory Petal
+								 169698,		--Widowbloom Petal
+								 169699,		--Vigil's Torch Petal
+								 169700,		--Death Blossom Petal
+								 169701,		--Death Blossom
+								 170554,		--Vigil's Torch
 								 171287,		--Ground Death Blossom
 								 171288,		--Ground Vigil's Torch
 								 171289,		--Ground Widowbloom
@@ -1242,6 +1255,7 @@ ExpansionReagents.shadowlands = {170554,		--Vigil's Torch
 								 171291,		--Ground Rising Glory
 								 171292,		--Ground Nightshade
 								 171293,		--Alchemist's Pouch
+								 171315,		--Nightshade
 								 181371,		--Spare Head
 								 171420,		--Reinforced Girdle
 								 171428,		--Shadowghast Ingot
