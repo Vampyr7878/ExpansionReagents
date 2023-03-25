@@ -777,7 +777,8 @@ ExpansionReagents.cataclysm = {51950,		--Pyrium Bar
 							   108364,		--Twilight Jasmine Petal
 							   108365,		--Whiptail Stem
 							   112155,		--Deepsea Scale Fragment
-							   112156}		--Blackened Dragonscale Fragment
+							   112156,		--Blackened Dragonscale Fragment
+							   204356}		--Illustrious Gemdust
 
 ExpansionReagents.mop = {72092,		--Ghost Iron Ore
 						 72093,		--Kyparite
@@ -1990,7 +1991,17 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  202053,		--Jeweled Dragon's Heart
 								  202059,		--Jeweled Dragon's Heart
 								  202173,		--Magmote
-								  202184}		--Trophy of Strife
+								  202184,		--Trophy of Strife
+								  203398,		--Dampening Powder
+								  203399,		--Damaged Trident
+								  203400,		--Lackluster Spices
+								  203401,		--Dull Crystal
+								  203402,		--Broken Gnomish Voicebox
+								  203403,		--Hastily Scrawled Rune
+								  203404,		--Crystal Fork
+								  203405,		--Pristine Pelt
+								  203406,		--Torn Morqut Kite
+								  204215}		--Dormant Primordial Fragment
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
