@@ -2001,7 +2001,48 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  203404,		--Crystal Fork
 								  203405,		--Pristine Pelt
 								  203406,		--Torn Morqut Kite
-								  204215}		--Dormant Primordial Fragment
+								  204075,		--Whelpling's Shadowflame Crest Fragment
+								  204076,		--Drake's Shadowflame Crest Fragment
+								  204077,		--Wyrm's Shadowflame Crest Fragment
+								  204078,		--Aspect's Shadowflame Crest Fragment
+								  204186,		--Greater Trophy of Conquest
+								  204187,		--Trophy of Conquest
+								  204188,		--Lesser Trophy of Conquest
+								  204189,		--Greater Crest of Honor
+								  204190,		--Crest of Honor
+								  204191,		--Lesser Crest of Honor
+								  204193,		--Whelpling's Shadowflame Crest
+								  204194,		--Aspect's Shadowflame Crest
+								  204195,		--Drake's Shadowflame Crest
+								  204196,		--Wyrm's Shadowflame Crest
+								  204215,		--Dormant Primordial Fragment
+								  204440,		--Spark of Shadowflame
+								  204460,		--Zaralek Glowspores
+								  204462,		--Dracothyst Shard
+								  204463,		--Dracothyst
+								  204464,		--Shadowflame Essence
+								  204634,		--Rot Resistant Cauldron
+								  204673,		--Titan Training Matrix V
+								  204681,		--Enchanted Whelpling's Shadowflame Crest
+								  204682,		--Enchanted Wyrm's Shadowflame Crest
+								  204697,		--Enchanted Aspect's Shadowflame Crest
+								  204708,		--Shadowflame-Tempered Armor Patch
+								  204709,		--Shadowflame-Tempered Armor Patch
+								  204710,		--Shadowflame-Tempered Armor Patch
+								  204717,		--Splintered Spark of Shadowflame
+								  204909,		--Statuette of Foreseen Power
+								  204994,		--Shadowed Alloy
+								  204995,		--Shadowed Alloy
+								  204996,		--Shadowed Alloy
+								  205012,		--Reserve Parachute
+								  205115,		--Statuette of Foreseen Power
+								  205170,		--Statuette of Foreseen Power
+								  205171,		--Figurine of the Gathering Storm
+								  205172,		--Figurine of the Gathering Storm
+								  205173,		--Figurine of the Gathering Storm
+								  205263,		--Empowered Flightstone
+								  205411,		--Medical Wrap Kit
+								  205413}		--Obsidian Cobraskin
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do

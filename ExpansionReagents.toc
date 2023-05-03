@@ -2,5 +2,6 @@
 ## Title: Expansion Reagents
 ## Notes: Adds information what expansion given crafting reagent belongs to
 ## Author: Vampyr78
-## Version: 1.2
+## Version: 1.3
+## IconTexture: Interface\Icons\inv_misc_note_01.blp
 ExpansionReagents.lua
