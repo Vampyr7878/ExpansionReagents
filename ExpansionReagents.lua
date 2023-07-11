@@ -2042,7 +2042,18 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  205173,		--Figurine of the Gathering Storm
 								  205263,		--Empowered Flightstone
 								  205411,		--Medical Wrap Kit
-								  205413}		--Obsidian Cobraskin
+								  205413,		--Obsidian Cobraskin
+								  204832,		--Reclaimed Gauntlet Chassis
+								  204854,		--Immaculate Coalescing Dracothyst
+								  204856,		--Inspired Order Recalibrator
+								  204857,		--Ancient Elementium Fragment
+								  205257,		--Temporal Vestigial
+								  205258,		--Everburning Shadowflame
+								  205259,		--Order Soul
+								  205260,		--Fleeting Glowspores
+								  206579,		--Phylacterweave
+								  207702}		--Wartorn Scrap
+								  
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
