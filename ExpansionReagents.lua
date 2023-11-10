@@ -2052,8 +2052,38 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  205259,		--Order Soul
 								  205260,		--Fleeting Glowspores
 								  206579,		--Phylacterweave
-								  207702}		--Wartorn Scrap
-								  
+								  206959,		--Spark of Dreams
+								  207702,		--Wartorn Scrap
+								  208395,		--Nascent Whelpling's Dreaming Crest
+								  208396,		--Splintered Spark of Dreams
+								  208394,		--Nascent Wyrm's Dreaming Crest
+								  206961,		--Enchanted Aspect's Dreaming Crest
+								  208393,		--Nascent Aspect's Dreaming Crest
+								  206960,		--Enchanted Wyrm's Dreaming Crest
+								  206977,		--Enchanted Whelpling's Dreaming Crest
+								  210456,		--Dreaming Antler Fragment
+								  210673,		--Verdant Tether
+								  208187,		--Verdant Conduit
+								  208746,		--Dreamtender's Charm
+								  208212,		--Dreaming Essence
+								  210671,		--Verdant Tether
+								  208566,		--Greater Verdant Trophy of Conquest
+								  208565,		--Verdant Trophy of Conquest
+								  208189,		--Verdant Conduit
+								  208568,		--Lesser Verdant Crest of Honor
+								  208748,		--Dreamtender's Charm
+								  208564,		--Lesser Verdant Trophy of Conquest
+								  208569,		--Verdant Crest of Honor
+								  208570,		--Greater Verdant Crest of Honor
+								  208188,		--Verdant Conduit
+								  210672,		--Verdant Tether
+								  208747,		--Dreamtender's Charm
+								  212536,		--Lesser Verdant Trophy of Conquest
+								  212537,		--Verdant Trophy of Conquest
+								  212538,		--Greater Verdant Trophy of Conquest
+								  212539,		--Lesser Verdant Crest of Honor
+								  212540,		--Verdant Crest of Honor
+								  212541}		--Greater Verdant Crest of Honor
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do

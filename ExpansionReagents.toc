@@ -1,7 +1,7 @@
-## Interface: 100107
+## Interface: 100200
 ## Title: Expansion Reagents
 ## Notes: Adds information what expansion given crafting reagent belongs to
 ## Author: Vampyr78
-## Version: 1.5
+## Version: 1.6
 ## IconTexture: Interface\Icons\inv_misc_note_01.blp
 ExpansionReagents.lua
