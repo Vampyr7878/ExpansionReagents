@@ -2076,6 +2076,7 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  208569,		--Verdant Crest of Honor
 								  208570,		--Greater Verdant Crest of Honor
 								  208188,		--Verdant Conduit
+								  208782,		--Symbiotic Glowspore Grip
 								  210672,		--Verdant Tether
 								  208747,		--Dreamtender's Charm
 								  212536,		--Lesser Verdant Trophy of Conquest
