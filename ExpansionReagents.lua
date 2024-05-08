@@ -2079,6 +2079,20 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  208782,		--Symbiotic Glowspore Grip
 								  210672,		--Verdant Tether
 								  208747,		--Dreamtender's Charm
+								  211515,		--Splintered Spark of Awakening
+								  211516,		--Spark of Awakening
+								  211518,		--Enchanted Wyrm's Awakened Crest
+								  211519,		--Enchanted Aspect's Awakened Crest
+								  211520,		--Enchanted Whelpling's Awakened Crest
+								  211521,		--Nascent Wyrm's Awakened Crest
+								  211522,		--Nascent Aspect's Awakened Crest
+								  211523,		--Nascent Whelpling's Awakened Crest
+								  211684,		--Lesser Draconic Trophy of Conquest
+								  211685,		--Draconic Trophy of Conquest
+								  211686,		--Greater Draconic Trophy of Conquest
+								  211687,		--Lesser Draconic Crest of Honor
+								  211688,		--Draconic Crest of Honor
+								  211689,		--Greater Draconic Crest of Honor
 								  212536,		--Lesser Verdant Trophy of Conquest
 								  212537,		--Verdant Trophy of Conquest
 								  212538,		--Greater Verdant Trophy of Conquest
