@@ -2100,6 +2100,834 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  212540,		--Verdant Crest of Honor
 								  212541}		--Greater Verdant Crest of Honor
 
+ExpansionReagents.tww = {210221,		--Forged Combatant's Heraldry
+						 210232,		--Forged Aspirant's Heraldry
+						 210233,		--Forged Gladiator's Heraldry
+						 210796,		--Mycobloom
+						 210797,		--Mycobloom
+						 210798,		--Mycobloom
+						 210799,		--Luredrop
+						 210800,		--Luredrop
+						 210801,		--Luredrop
+						 210802,		--Orbinid
+						 210803,		--Orbinid
+						 210804,		--Orbinid
+						 210805,		--Blessing Blossom
+						 210806,		--Blessing Blossom
+						 210807,		--Blessing Blossom
+						 210808,		--Arathor's Spear
+						 210809,		--Arathor's Spear
+						 210810,		--Arathor's Spear
+						 210814,		--Artisan's Acuity
+						 210815,		--Coreway Catalyst
+						 210828,		--Dilution Solution
+						 210930,		--Bismuth
+						 210931,		--Bismuth
+						 210932,		--Bismuth
+						 210933,		--Aqirite
+						 210934,		--Aqirite
+						 210935,		--Aqirite
+						 210936,		--Ironclaw Ore
+						 210937,		--Ironclaw Ore
+						 210938,		--Ironclaw Ore
+						 210939,		--Null Stone
+						 210940,		--Null Stone
+						 210941,		--Null Stone
+						 210942,		--Byproduct 01 - Light
+						 210943,		--Byproduct 02 - Dark
+						 211296,		--Spark of Omens
+						 211297,		--Fractured Spark of Omens
+						 211494,		--Spark of Beginnings
+						 211802,		--Ominous Transmutagen
+						 211803,		--Mercurial Transmutagen
+						 211804,		--Volatile Transmutagen
+						 211805,		--Gleaming Transmutagen
+						 211806,		--Gilded Vial
+						 211807,		--Gilded Vial
+						 211808,		--Gilded Vial
+						 212495,		--Radiant Ruby
+						 212498,		--Ambivalent Amber
+						 212505,		--Extravagant Emerald
+						 212508,		--Stunning Sapphire
+						 212511,		--Ostentatious Onyx
+						 212514,		--Blasphemite
+						 212563,		--Harmonious Horticulture
+						 212564,		--Harmonious Horticulture
+						 212565,		--Harmonious Horticulture
+						 212664,		--Stormcharged Leather
+						 212665,		--Stormcharged Leather
+						 212666,		--Stormcharged Leather
+						 212667,		--Gloom Chitin
+						 212668,		--Gloom Chitin
+						 212669,		--Gloom Chitin
+						 212670,		--Thunderous Hide
+						 212672,		--Thunderous Hide
+						 212673,		--Thunderous Hide
+						 212674,		--Sunless Carapace
+						 212675,		--Sunless Carapace
+						 212676,		--Sunless Carapace
+						 212677,		--Underground Cloth 01
+						 212678,		--Underground Cloth 01
+						 212679,		--Underground Cloth 01
+						 212754,		--Crystalforged Cauldron
+						 213197,		--Null Lotus
+						 213219,		--Crushed Gemstones
+						 213220,		--Crushed Gemstones
+						 213221,		--Crushed Gemstones
+						 213398,		--Handful of Pebbles
+						 213399,		--Glittering Glass
+						 213610,		--Crystalline Powder
+						 213611,		--Writhing Sample
+						 213612,		--Viridescent Spores
+						 213613,		--Leyline Residue
+						 213750,		--Engraved Gemcutter
+						 213751,		--Engraved Gemcutter
+						 213752,		--Engraved Gemcutter
+						 213753,		--Decorative Lens
+						 213754,		--Decorative Lens
+						 213755,		--Decorative Lens
+						 213756,		--Marbled Stone
+						 213757,		--Marbled Stone
+						 213758,		--Marbled Stone
+						 213759,		--Inverted Prism
+						 213760,		--Inverted Prism
+						 213761,		--Inverted Prism
+						 213762,		--Sifted Cave Sand
+						 213763,		--Sifted Cave Sand
+						 213764,		--Sifted Cave Sand
+						 213765,		--Ominous Energy Crystal
+						 213766,		--Ominous Energy Crystal
+						 213767,		--Ominous Energy Crystal
+						 213768,		--Elemental Focusing Lens
+						 213769,		--Elemental Focusing Lens
+						 213770,		--Elemental Focusing Lens
+						 213771,		--Prismatic Null Stone
+						 213772,		--Prismatic Null Stone
+						 213773,		--Prismatic Null Stone
+						 213774,		--Captured Starlight
+						 213775,		--Captured Starlight
+						 213776,		--Captured Starlight
+						 214043,		--Glittering Gemdust
+						 215236,		--Vicious Bloodstone
+						 217707,		--Imperfect Null Stone
+						 218336,		--Kaheti Swarm Chitin
+						 218337,		--Honed Bone Shards
+						 218338,		--Bottled Storm
+						 218339,		--Burning Cinderbee Setae
+						 219013,		--Superb Beast Fang
+						 219150,		--Pile of Rusted Scrap
+						 219495,		--Blessed Weapon Grip
+						 219496,		--Blessed Weapon Grip
+						 219497,		--Blessed Weapon Grip
+						 219500,		--Fang Adornments
+						 219504,		--Writhing Armor Banding
+						 219505,		--Writhing Armor Banding
+						 219506,		--Writhing Armor Banding
+						 219528,		--Sable Ink
+						 219529,		--Sable Ink
+						 219530,		--Sable Ink
+						 219531,		--Sable Pigment
+						 219532,		--Sable Pigment
+						 219533,		--Sable Pigment
+						 219534,		--Apricate Ink
+						 219535,		--Apricate Ink
+						 219536,		--Apricate Ink
+						 219537,		--Apricate Pigment
+						 219538,		--Apricate Pigment
+						 219539,		--Apricate Pigment
+						 219540,		--Bound Spearwood
+						 219541,		--Bound Spearwood
+						 219542,		--Bound Spearwood
+						 219555,		--Darkmoon Sigil: Evolution
+						 219556,		--Darkmoon Sigil: Evolution
+						 219557,		--Darkmoon Sigil: Evolution
+						 219558,		--Darkmoon Sigil: Shine
+						 219559,		--Darkmoon Sigil: Shine
+						 219560,		--Darkmoon Sigil: Shine
+						 219561,		--Darkmoon Sigil: Symbiosis
+						 219562,		--Darkmoon Sigil: Symbiosis
+						 219563,		--Darkmoon Sigil: Symbiosis
+						 219564,		--Darkmoon Sigil: Vivacity
+						 219565,		--Darkmoon Sigil: Vivacity
+						 219566,		--Darkmoon Sigil: Vivacity
+						 219599,		--Fortuitous Essence
+						 219600,		--Burnt Rolling Pin
+						 219601,		--Lightweight Scribe's Quill
+						 219602,		--Hasty Alchemist's Mixing Rod
+						 219603,		--Patient Alchemist's Mixing Rod
+						 219604,		--Inscribed Rolling Pin
+						 219605,		--Silver Tongue's Quill
+						 219606,		--Vantus of Progress: 11.0 Raid
+						 219607,		--Vantus of Progress: 11.0 Raid
+						 219608,		--Vantus of Progress: 11.0 Raid
+						 219651,		--Algari Missive of Inspiration
+						 219652,		--Algari Missive of Inspiration
+						 219653,		--Algari Missive of Inspiration
+						 219654,		--Algari Missive of Resourcefulness
+						 219655,		--Algari Missive of Resourcefulness
+						 219656,		--Algari Missive of Resourcefulness
+						 219657,		--Algari Missive of Multicraft
+						 219658,		--Algari Missive of Multicraft
+						 219659,		--Algari Missive of Multicraft
+						 219660,		--Algari Missive of Crafting Speed
+						 219661,		--Algari Missive of Crafting Speed
+						 219662,		--Algari Missive of Crafting Speed
+						 219663,		--Algari Missive of Finesse
+						 219664,		--Algari Missive of Finesse
+						 219665,		--Algari Missive of Finesse
+						 219666,		--Algari Missive of Perception
+						 219667,		--Algari Missive of Perception
+						 219668,		--Algari Missive of Perception
+						 219669,		--Algari Missive of Deftness
+						 219670,		--Algari Missive of Deftness
+						 219671,		--Algari Missive of Deftness
+						 219819,		--Algari Missive of the Fireflash
+						 219820,		--Algari Missive of the Fireflash
+						 219821,		--Algari Missive of the Fireflash
+						 219822,		--Algari Missive of the Feverflare
+						 219823,		--Algari Missive of the Feverflare
+						 219824,		--Algari Missive of the Feverflare
+						 219825,		--Algari Missive of the Aurora
+						 219826,		--Algari Missive of the Aurora
+						 219827,		--Algari Missive of the Aurora
+						 219828,		--Algari Missive of the Quickblade
+						 219829,		--Algari Missive of the Quickblade
+						 219830,		--Algari Missive of the Quickblade
+						 219831,		--Algari Missive of the Harmonious
+						 219832,		--Algari Missive of the Harmonious
+						 219833,		--Algari Missive of the Harmonious
+						 219834,		--Algari Missive of the Peerless
+						 219835,		--Algari Missive of the Peerless
+						 219836,		--Algari Missive of the Peerless
+						 219837,		--Algari Missive of Inspiration
+						 219838,		--Algari Missive of Inspiration
+						 219839,		--Algari Missive of Inspiration
+						 219840,		--Algari Missive of the Fireflash
+						 219841,		--Algari Missive of the Fireflash
+						 219842,		--Algari Missive of the Fireflash
+						 219843,		--Algari Missive of the Feverflare
+						 219844,		--Algari Missive of the Feverflare
+						 219845,		--Algari Missive of the Feverflare
+						 219846,		--Algari Missive of the Aurora
+						 219847,		--Algari Missive of the Aurora
+						 219848,		--Algari Missive of the Aurora
+						 219849,		--Algari Missive of the Quickblade
+						 219850,		--Algari Missive of the Quickblade
+						 219851,		--Algari Missive of the Quickblade
+						 219852,		--Algari Missive of the Harmonious
+						 219853,		--Algari Missive of the Harmonious
+						 219854,		--Algari Missive of the Harmonious
+						 219855,		--Algari Missive of the Peerless
+						 219856,		--Algari Missive of the Peerless
+						 219857,		--Algari Missive of the Peerless
+						 219858,		--Algari Missive of Inspiration
+						 219859,		--Algari Missive of Inspiration
+						 219860,		--Algari Missive of Inspiration
+						 219880,		--Carapace-Backed Hide
+						 219881,		--Carapace-Backed Hide
+						 219882,		--Carapace-Backed Hide
+						 219883,		--Crystalfused Hide
+						 219884,		--Crystalfused Hide
+						 219885,		--Crystalfused Hide
+						 219886,		--Writhing Hide
+						 219887,		--Writhing Hide
+						 219888,		--Writhing Hide
+						 219889,		--Sporecoated Hide
+						 219890,		--Sporecoated Hide
+						 219891,		--Sporecoated Hide
+						 219892,		--Leyfused Hide
+						 219893,		--Leyfused Hide
+						 219894,		--Leyfused Hide
+						 219895,		--Deepfury Hide
+						 219896,		--Deepfury Hide
+						 219897,		--Deepfury Hide
+						 219898,		--Chitin Armor Banding
+						 219899,		--Chitin Armor Banding
+						 219900,		--Chitin Armor Banding
+						 219901,		--Storm-Touched Weapon Wrap
+						 219902,		--Storm-Touched Weapon Wrap
+						 219903,		--Storm-Touched Weapon Wrap
+						 219946,		--Storm Dust
+						 219947,		--Storm Dust
+						 219948,		--Storm Dust
+						 219949,		--Gleaming Shard
+						 219950,		--Gleaming Shard
+						 219951,		--Gleaming Shard
+						 219952,		--Refulgent Crystal
+						 219954,		--Refulgent Crystal
+						 219955,		--Refulgent Crystal
+						 220134,		--Dilly-Dally Dace
+						 220135,		--Bloody Perch
+						 220136,		--Crystalline Sturgeon
+						 220137,		--Bismuth Bitterling
+						 220138,		--Nibbling Minnow
+						 220139,		--Whispering Stargazer
+						 220141,		--Specular Rainbowfish
+						 220142,		--Quiet River Bass
+						 220144,		--Roaring Anglerseeker
+						 220145,		--Arathor Hammerfish
+						 220146,		--Regal Dottyback
+						 220147,		--Kaheti Slum Shark
+						 220148,		--Pale Huskfish
+						 220149,		--Sanguine Dogfish
+						 220150,		--Spiked Sea Raven
+						 220151,		--Queen's Lurefish
+						 220152,		--Cursed Ghoulfish
+						 220153,		--Awoken Coelecanth
+						 220174,		--Core Alloy
+						 220175,		--Core Alloy
+						 220176,		--Core Alloy
+						 220177,		--Charged Alloy
+						 220178,		--Charged Alloy
+						 220179,		--Charged Alloy
+						 220180,		--Earthen Master's Arsenal
+						 220181,		--Earthen Master's Arsenal
+						 220182,		--Earthen Master's Arsenal
+						 220183,		--Seasoned Skillet
+						 220184,		--Seasoned Skillet
+						 220185,		--Seasoned Skillet
+						 220186,		--Forged Framework
+						 220187,		--Forged Framework
+						 220188,		--Forged Framework
+						 220189,		--Sanctified Alloy
+						 220190,		--Sanctified Alloy
+						 220191,		--Sanctified Alloy
+						 220192,		--Ironclaw Alloy
+						 220193,		--Ironclaw Alloy
+						 220194,		--Ironclaw Alloy
+						 220195,		--Echoing Impact Seal
+						 220196,		--Echoing Impact Seal
+						 220197,		--Echoing Impact Seal
+						 220382,		--Chopped Mycobloom
+						 220383,		--Portioned Steak
+						 220384,		--Spiced Meat Stock
+						 220385,		--Cluster of Meatballs
+						 220386,		--Fresh Fillet
+						 220387,		--Twined Herbs
+						 220388,		--Crunchy Peppers
+						 220389,		--Coreway Dust
+						 220390,		--Surface Olive
+						 220391,		--Khaz Algar Tomato
+						 220392,		--Granulated Spices
+						 220393,		--Clumped Flour
+						 220394,		--Skewered Fillet
+						 220395,		--Meatball Hold-Me-Over
+						 220403,		--Rib Stickers
+						 220404,		--Sweet and Sour Meatballs
+						 220788,		--Nascent Weathered Harbinger Crest
+						 220789,		--Nascent Gilded Harbinger Crest
+						 220790,		--Nascent Runed Harbinger Crest
+						 220943,		--Reinforced Handle
+						 220944,		--Reinforced Handle
+						 220945,		--Reinforced Handle
+						 220946,		--Weighted Lure
+						 220947,		--Weighted Lure
+						 220948,		--Weighted Lure
+						 220949,		--Ironclaw Weapon Stone
+						 220950,		--Ironclaw Weapon Stone
+						 220951,		--Ironclaw Weapon Stone
+						 220952,		--Webbed Fishing Line
+						 220953,		--Webbed Fishing Line
+						 220954,		--Webbed Fishing Line
+						 220961,		--Arathor Armor Patch
+						 220962,		--Arathor Armor Patch
+						 220963,		--Arathor Armor Patch
+						 221648,		--Delete me 7
+						 221649,		--Delete me 8
+						 221650,		--Delete me 9
+						 221651,		--Delete me 10
+						 221652,		--Delete me 11
+						 221653,		--Delete me 12
+						 221654,		--Delete me 13
+						 221655,		--Delete me 14
+						 221656,		--Delete me 15
+						 221754,		--Ringing Deeps Ingot
+						 221756,		--Vial of Kaheti Oils
+						 221757,		--Gloomfathom Hide
+						 221758,		--Profaned Tinderbox
+						 221763,		--Viridian Charmcap
+						 221853,		--Handful of Bismuth Bolts
+						 221854,		--Handful of Bismuth Bolts
+						 221855,		--Handful of Bismuth Bolts
+						 221856,		--Whimsical Wiring
+						 221857,		--Whimsical Wiring
+						 221858,		--Whimsical Wiring
+						 221859,		--Gyrating Gear
+						 221860,		--Gyrating Gear
+						 221861,		--Gyrating Gear
+						 221862,		--Safety Switch
+						 221863,		--Safety Switch
+						 221864,		--Safety Switch
+						 221865,		--Chaos Circuit
+						 221866,		--Chaos Circuit
+						 221867,		--Chaos Circuit
+						 221868,		--Entropy Enhancer
+						 221869,		--Entropy Enhancer
+						 221870,		--Entropy Enhancer
+						 221911,		--Serrated Cogwheel
+						 221912,		--Serrated Cogwheel
+						 221913,		--Serrated Cogwheel
+						 221914,		--Overclocked Cogwheel
+						 221915,		--Overclocked Cogwheel
+						 221916,		--Overclocked Cogwheel
+						 221917,		--Impeccable Cogwheel
+						 221918,		--Impeccable Cogwheel
+						 221919,		--Impeccable Cogwheel
+						 221920,		--Adjustable Cogwheel
+						 221921,		--Adjustable Cogwheel
+						 221922,		--Adjustable Cogwheel
+						 221923,		--Recalibrated Safety Switch
+						 221924,		--Recalibrated Safety Switch
+						 221925,		--Recalibrated Safety Switch
+						 221926,		--Blame Redirection Device
+						 221927,		--Blame Redirection Device
+						 221928,		--Blame Redirection Device
+						 221932,		--Complicated Fuse Box
+						 221933,		--Complicated Fuse Box
+						 221934,		--Complicated Fuse Box
+						 221935,		--Pouch of Pocket Grenades
+						 221936,		--Pouch of Pocket Grenades
+						 221937,		--Pouch of Pocket Grenades
+						 221938,		--Concealed Chaos Module
+						 221939,		--Concealed Chaos Module
+						 221940,		--Concealed Chaos Module
+						 221941,		--Energy Redistribution Beacon
+						 221942,		--Energy Redistribution Beacon
+						 221943,		--Energy Redistribution Beacon
+						 221983,		--Core Alloy
+						 221984,		--Core Alloy
+						 221985,		--Core Alloy
+						 221986,		--Core Alloy
+						 221987,		--Charged Alloy
+						 221988,		--Charged Alloy
+						 221989,		--Charged Alloy
+						 221990,		--Sanctified Alloy
+						 221991,		--Sanctified Alloy
+						 221992,		--Sanctified Alloy
+						 221993,		--Ironclaw Alloy
+						 221994,		--Ironclaw Alloy
+						 221995,		--Ironclaw Alloy
+						 222019,		--Echoing Impact Seal
+						 222020,		--Arathor Armor Patch
+						 222062,		--Forged Framework
+						 222063,		--Forged Framework
+						 222064,		--Forged Framework
+						 222089,		--Bloody Perch
+						 222090,		--Crystalline Sturgeon
+						 222091,		--Bismuth Bitterling
+						 222092,		--Dornish Pike
+						 222093,		--Quiet River Bass
+						 222094,		--Arathor Hammerfish
+						 222095,		--Azj-Kahet Slum Shark
+						 222096,		--Goldengill Trout
+						 222097,		--Nibbling Minnow
+						 222098,		--Pale Huskfish
+						 222099,		--Regal Dottyback
+						 222100,		--Roaring Anglerseeker
+						 222101,		--Specular Rainbowfish
+						 222102,		--Whispering Stargazer
+						 222103,		--Sanguine Dogfish
+						 222104,		--Spiked Sea Raven
+						 222105,		--Queen's Lurefish
+						 222106,		--Cursed Ghoulfish
+						 222118,		--Codified Greenwood
+						 222119,		--Codified Greenwood
+						 222120,		--Codified Greenwood
+						 222121,		--Boundless Cipher
+						 222122,		--Boundless Cipher
+						 222123,		--Boundless Cipher
+						 222124,		--Darkmoon Sigil: Evolution
+						 222125,		--Darkmoon Sigil: Shine
+						 222126,		--Darkmoon Sigil: Symbiosis
+						 222127,		--Darkmoon Sigil: Vivacity
+						 222142,		--Algari Missive of the Aurora
+						 222143,		--Algari Missive of the Aurora
+						 222144,		--Algari Missive of the Aurora
+						 222145,		--Algari Missive of the Feverflare
+						 222146,		--Algari Missive of the Feverflare
+						 222147,		--Algari Missive of the Feverflare
+						 222148,		--Algari Missive of the Fireflash
+						 222149,		--Algari Missive of the Fireflash
+						 222150,		--Algari Missive of the Fireflash
+						 222151,		--Algari Missive of the Harmonious
+						 222152,		--Algari Missive of the Harmonious
+						 222153,		--Algari Missive of the Harmonious
+						 222154,		--Algari Missive of the Peerless
+						 222155,		--Algari Missive of the Peerless
+						 222156,		--Algari Missive of the Peerless
+						 222157,		--Algari Missive of the Quickblade
+						 222158,		--Algari Missive of the Quickblade
+						 222159,		--Algari Missive of the Quickblade
+						 222172,		--Sable Ink
+						 222173,		--Sable Ink
+						 222174,		--Sable Ink
+						 222175,		--Sable Pigment
+						 222176,		--Sable Pigment
+						 222177,		--Sable Pigment
+						 222178,		--Apricate Ink
+						 222179,		--Apricate Ink
+						 222180,		--Apricate Ink
+						 222181,		--Apricate Pigment
+						 222182,		--Apricate Pigment
+						 222183,		--Apricate Pigment
+						 222189,		--Algari Missive of Inspiration
+						 222190,		--Algari Missive of Inspiration
+						 222191,		--Algari Missive of Inspiration
+						 222192,		--Algari Missive of Resourcefulness
+						 222193,		--Algari Missive of Resourcefulness
+						 222194,		--Algari Missive of Resourcefulness
+						 222195,		--Algari Missive of Multicraft
+						 222196,		--Algari Missive of Multicraft
+						 222197,		--Algari Missive of Multicraft
+						 222198,		--Algari Missive of Crafting Speed
+						 222199,		--Algari Missive of Crafting Speed
+						 222200,		--Algari Missive of Crafting Speed
+						 222201,		--Algari Missive of Finesse
+						 222202,		--Algari Missive of Finesse
+						 222203,		--Algari Missive of Finesse
+						 222204,		--Algari Missive of Perception
+						 222205,		--Algari Missive of Perception
+						 222206,		--Algari Missive of Perception
+						 222207,		--Algari Missive of Deftness
+						 222208,		--Algari Missive of Deftness
+						 222209,		--Algari Missive of Deftness
+						 222214,		--Ace of Symbiosis
+						 222215,		--Two of Symbiosis
+						 222216,		--Three of Symbiosis
+						 222217,		--Four of Symbiosis
+						 222218,		--Five of Symbiosis
+						 222219,		--Six of Symbiosis
+						 222220,		--Seven of Symbiosis
+						 222221,		--Eight of Symbiosis
+						 222223,		--Ace of Shining
+						 222224,		--Two of Shining
+						 222225,		--Three of Shining
+						 222226,		--Four of Shining
+						 222227,		--Five of Shining
+						 222228,		--Six of Shining
+						 222229,		--Seven of Shining
+						 222230,		--Eight of Shining
+						 222232,		--Ace of Vivacity
+						 222233,		--Two of Vivacity
+						 222234,		--Three of Vivacity
+						 222235,		--Four of Vivacity
+						 222236,		--Five of Vivacity
+						 222237,		--Six of Vivacity
+						 222238,		--Seven of Vivacity
+						 222239,		--Eight of Vivacity
+						 222241,		--Ace of Evolution
+						 222242,		--Two of Evolution
+						 222243,		--Three of Evolution
+						 222244,		--Four of Evolution
+						 222245,		--Five of Evolution
+						 222246,		--Six of Evolution
+						 222247,		--Seven of Evolution
+						 222248,		--Eight of Evolution
+						 222250,		--Chopped Mycobloom
+						 222251,		--Portioned Steak
+						 222252,		--Spiced Meat Stock
+						 222253,		--Cluster of Meatballs
+						 222254,		--Fresh Fillet
+						 222255,		--Twined Herbs
+						 222256,		--Crunchy Peppers
+						 222257,		--Coreway Dust
+						 222258,		--Surface Olive
+						 222259,		--Khaz Algar Tomato
+						 222260,		--Granulated Spices
+						 222261,		--Clumped Flour
+						 222262,		--Skewered Fillet
+						 222263,		--Meatball Hold-Me-Over
+						 222271,		--Rib Stickers
+						 222272,		--Sweet and Sour Meatballs
+						 222305,		--Hearty Skewered Fillet
+						 222306,		--Hearty Meatball Hold-Me-Over
+						 222314,		--Hearty Rib Stickers
+						 222315,		--Hearty Sweet and Sour Meatballs
+						 222417,		--Core Alloy
+						 222418,		--Core Alloy
+						 222419,		--Core Alloy
+						 222420,		--Charged Alloy
+						 222421,		--Charged Alloy
+						 222422,		--Charged Alloy
+						 222423,		--Sanctified Alloy
+						 222424,		--Sanctified Alloy
+						 222425,		--Sanctified Alloy
+						 222426,		--Ironclaw Alloy
+						 222427,		--Ironclaw Alloy
+						 222428,		--Ironclaw Alloy
+						 222452,		--Echoing Impact Seal
+						 222453,		--Echoing Impact Seal
+						 222454,		--Echoing Impact Seal
+						 222455,		--Arathor Armor Patch
+						 222456,		--Arathor Armor Patch
+						 222457,		--Arathor Armor Patch
+						 222499,		--Forged Framework
+						 222500,		--Forged Framework
+						 222501,		--Forged Framework
+						 222526,		--Bloody Perch
+						 222527,		--Crystalline Sturgeon
+						 222528,		--Bismuth Bitterling
+						 222529,		--Dornish Pike
+						 222530,		--Quiet River Bass
+						 222531,		--Arathor Hammerfish
+						 222532,		--Azj-Kahet Slum Shark
+						 222533,		--Goldengill Trout
+						 222534,		--Nibbling Minnow
+						 222535,		--Pale Huskfish
+						 222536,		--Regal Dottyback
+						 222537,		--Roaring Anglerseeker
+						 222538,		--Specular Rainbowfish
+						 222539,		--Whispering Stargazer
+						 222540,		--Sanguine Dogfish
+						 222541,		--Spiked Sea Raven
+						 222542,		--Queen's Lurefish
+						 222543,		--Cursed Ghoulfish
+						 222555,		--Codified Greenwood
+						 222556,		--Codified Greenwood
+						 222557,		--Codified Greenwood
+						 222558,		--Boundless Cipher
+						 222559,		--Boundless Cipher
+						 222560,		--Boundless Cipher
+						 222561,		--Darkmoon Sigil: Ascension
+						 222562,		--Darkmoon Sigil: Radiance
+						 222563,		--Darkmoon Sigil: Symbiosis
+						 222564,		--Darkmoon Sigil: Vivacity
+						 222579,		--Algari Missive of the Aurora
+						 222580,		--Algari Missive of the Aurora
+						 222581,		--Algari Missive of the Aurora
+						 222582,		--Algari Missive of the Feverflare
+						 222583,		--Algari Missive of the Feverflare
+						 222584,		--Algari Missive of the Feverflare
+						 222585,		--Algari Missive of the Fireflash
+						 222586,		--Algari Missive of the Fireflash
+						 222587,		--Algari Missive of the Fireflash
+						 222588,		--Algari Missive of the Harmonious
+						 222589,		--Algari Missive of the Harmonious
+						 222590,		--Algari Missive of the Harmonious
+						 222591,		--Algari Missive of the Peerless
+						 222592,		--Algari Missive of the Peerless
+						 222593,		--Algari Missive of the Peerless
+						 222594,		--Algari Missive of the Quickblade
+						 222595,		--Algari Missive of the Quickblade
+						 222596,		--Algari Missive of the Quickblade
+						 222609,		--Shadow Ink
+						 222610,		--Shadow Ink
+						 222611,		--Shadow Ink
+						 222612,		--Luredrop Pigment
+						 222613,		--Luredrop Pigment
+						 222614,		--Luredrop Pigment
+						 222615,		--Apricate Ink
+						 222616,		--Apricate Ink
+						 222617,		--Apricate Ink
+						 222618,		--Nacreous Pigment
+						 222619,		--Nacreous Pigment
+						 222620,		--Nacreous Pigment
+						 222626,		--Algari Missive of Ingenuity
+						 222627,		--Algari Missive of Ingenuity
+						 222628,		--Algari Missive of Ingenuity
+						 222629,		--Algari Missive of Resourcefulness
+						 222630,		--Algari Missive of Resourcefulness
+						 222631,		--Algari Missive of Resourcefulness
+						 222632,		--Algari Missive of Multicraft
+						 222633,		--Algari Missive of Multicraft
+						 222634,		--Algari Missive of Multicraft
+						 222635,		--Algari Missive of Crafting Speed
+						 222636,		--Algari Missive of Crafting Speed
+						 222637,		--Algari Missive of Crafting Speed
+						 222638,		--Algari Missive of Finesse
+						 222639,		--Algari Missive of Finesse
+						 222640,		--Algari Missive of Finesse
+						 222641,		--Algari Missive of Perception
+						 222642,		--Algari Missive of Perception
+						 222643,		--Algari Missive of Perception
+						 222644,		--Algari Missive of Deftness
+						 222645,		--Algari Missive of Deftness
+						 222646,		--Algari Missive of Deftness
+						 222654,		--Ace of Symbiosis
+						 222655,		--Two of Symbiosis
+						 222656,		--Three of Symbiosis
+						 222657,		--Four of Symbiosis
+						 222658,		--Five of Symbiosis
+						 222659,		--Six of Symbiosis
+						 222660,		--Seven of Symbiosis
+						 222661,		--Eight of Symbiosis
+						 222663,		--Ace of Radiance
+						 222664,		--Two of Radiance
+						 222665,		--Three of Radiance
+						 222666,		--Four of Radiance
+						 222667,		--Five of Radiance
+						 222668,		--Six of Radiance
+						 222669,		--Seven of Radiance
+						 222670,		--Eight of Radiance
+						 222672,		--Ace of Vivacity
+						 222673,		--Two of Vivacity
+						 222674,		--Three of Vivacity
+						 222675,		--Four of Vivacity
+						 222676,		--Five of Vivacity
+						 222677,		--Six of Vivacity
+						 222678,		--Seven of Vivacity
+						 222679,		--Eight of Vivacity
+						 222681,		--Ace of Ascension
+						 222682,		--Two of Ascension
+						 222683,		--Three of Ascension
+						 222684,		--Four of Ascension
+						 222685,		--Five of Ascension
+						 222686,		--Six of Ascension
+						 222687,		--Seven of Ascension
+						 222688,		--Eight of Ascension
+						 222689,		--Fortuitous Essence
+						 222690,		--Chopped Mycobloom
+						 222691,		--Portioned Steak
+						 222692,		--Spiced Meat Stock
+						 222693,		--Hearty Meals
+						 222694,		--Fresh Fillet
+						 222695,		--Twined Herbs
+						 222696,		--Crunchy Peppers
+						 222697,		--Coreway Dust
+						 222698,		--Surface Olive
+						 222699,		--Khaz Algar Tomato
+						 222700,		--Granulated Spices
+						 222701,		--Clumped Flour
+						 222702,		--Skewered Fillet
+						 222703,		--Simple Stew
+						 222711,		--Rib Stickers
+						 222712,		--Sweet and Sour Meatballs
+						 222737,		--Chopped Mycobloom
+						 222738,		--Portioned Steak
+						 222739,		--Spiced Meat Stock
+						 222741,		--Fresh Fillet
+						 222745,		--Pep-In-Your-Step
+						 222754,		--Hearty Pan-Seared Mycobloom
+						 222755,		--Hearty Hallowfall Chili
+						 222789,		--Spool of Duskthread
+						 222790,		--Spool of Duskthread
+						 222791,		--Spool of Duskthread
+						 222792,		--Spool of Dawnthread
+						 222793,		--Spool of Dawnthread
+						 222794,		--Spool of Dawnthread
+						 222795,		--Spool of Weaverthread
+						 222796,		--Spool of Weaverthread
+						 222797,		--Spool of Weaverthread
+						 222798,		--Duskweave Bolt
+						 222799,		--Duskweave Bolt
+						 222800,		--Duskweave Bolt
+						 222801,		--Dawnweave Bolt
+						 222802,		--Dawnweave Bolt
+						 222803,		--Dawnweave Bolt
+						 222804,		--Weavercloth Bolt
+						 222805,		--Weavercloth Bolt
+						 222806,		--Weavercloth Bolt
+						 222854,		--Dawnweave Reagent Bag
+						 222855,		--Weavercloth Reagent Bag
+						 222856,		--Duskweave Bag
+						 222868,		--Dawnthread Lining
+						 222869,		--Dawnthread Lining
+						 222870,		--Dawnthread Lining
+						 222871,		--Duskthread Lining
+						 222872,		--Duskthread Lining
+						 222873,		--Duskthread Lining
+						 222876,		--Gritty Polishing Cloth
+						 222877,		--Gritty Polishing Cloth
+						 222878,		--Gritty Polishing Cloth
+						 222879,		--Bright Polishing Cloth
+						 222880,		--Bright Polishing Cloth
+						 222881,		--Bright Polishing Cloth
+						 222882,		--Weavercloth Embroidery Thread
+						 222883,		--Weavercloth Embroidery Thread
+						 222884,		--Weavercloth Embroidery Thread
+						 222885,		--Preserving Embroidery Thread
+						 222886,		--Preserving Embroidery Thread
+						 222887,		--Preserving Embroidery Thread
+						 223512,		--Basically Beef
+						 224069,		--Enchanted Weathered Harbinger Crest
+						 224072,		--Enchanted Runed Harbinger Crest
+						 224073,		--Enchanted Gilded Harbinger Crest
+						 224173,		--Concentration Concentrate
+						 224174,		--Concentration Concentrate
+						 224175,		--Concentration Concentrate
+						 224176,		--Mirror Powder
+						 224177,		--Mirror Powder
+						 224178,		--Mirror Powder
+						 224764,		--Mosswool Thread
+						 224800,		--Orbinid Pigment
+						 224801,		--Orbinid Pigment
+						 224802,		--Orbinid Pigment
+						 224803,		--Blossom Pigment
+						 224804,		--Blossom Pigment
+						 224805,		--Blossom Pigment
+						 224824,		--Duskweave
+						 224826,		--Dawnweave
+						 224828,		--Weavercloth
+						 224832,		--Exquisite Weavercloth Bolt
+						 224833,		--Exquisite Weavercloth Bolt
+						 224834,		--Exquisite Weavercloth Bolt
+						 225564,		--Meaty Muscle
+						 225565,		--Massive Worm Flank
+						 225566,		--Warped Wing
+						 225567,		--Bug Brisket
+						 225568,		--Slum Shark Scrap
+						 225569,		--Clipped Bird Wing
+						 225570,		--Algari Fowlfeather
+						 225670,		--Apprentice's Crafting License
+						 225671,		--Stack of Pentagold Reviews
+						 225672,		--Unraveled Instructions
+						 225673,		--Artisan's Consortium Seal of Approval
+						 225677,		--Gleaming Chaos
+						 225768,		--Crusty Darkmoon Card
+						 225876,		--Fine Egg Powder
+						 225883,		--Prepared Ghoulfish
+						 225911,		--Cinderbee Belly
+						 225912,		--Hot Honeycomb
+						 225937,		--Putrid Goop
+						 225984,		--Assorted Choking Hazards
+						 225985,		--Assorted Choking Hazards
+						 225986,		--Assorted Choking Hazards
+						 225987,		--Bottled Brilliance
+						 225988,		--Bottled Brilliance
+						 225989,		--Bottled Brilliance
+						 226022,		--Darkmoon Sigil: Ascension
+						 226023,		--Darkmoon Sigil: Ascension
+						 226024,		--Darkmoon Sigil: Ascension
+						 226025,		--Darkmoon Sigil: Radiance
+						 226026,		--Darkmoon Sigil: Radiance
+						 226027,		--Darkmoon Sigil: Radiance
+						 226028,		--Darkmoon Sigil: Symbiosis
+						 226029,		--Darkmoon Sigil: Symbiosis
+						 226030,		--Darkmoon Sigil: Symbiosis
+						 226031,		--Darkmoon Sigil: Vivacity
+						 226032,		--Darkmoon Sigil: Vivacity
+						 226033,		--Darkmoon Sigil: Vivacity
+						 226202,		--Echoing Flux
+						 226204,		--Fresh Parchment
+						 226205,		--Distilled Algari Freshwater
+						 227769,		--Bountiful Bolts
+						 227770,		--Assorted Whirlygigs
+						 227771,		--Blinker Fluid
+						 227772,		--Cataclysmic Converter
+						 227773,		--Pummel-Proof Plating
+						 227774,		--Pummel Permit
+						 228224,		--Spark of Legacies
+						 228231,		--Weavercloth
+						 228232,		--Weavercloth
+						 228233,		--Duskweave
+						 228234,		--Duskweave
+						 228235,		--Dawnweave
+						 228236,		--Dawnweave
+						 228338,		--Soul Sigil I
+						 228339,		--Soul Sigil II
+						 228368,		--Relic of the Past VI
+						 228401,		--Bubbling Mycobloom Culture
+						 228402,		--Bubbling Mycobloom Culture
+						 228403,		--Bubbling Mycobloom Culture
+						 228404,		--Petal Powder
+						 228405,		--Petal Powder
+						 228406,		--Petal Powder
+						 228414,		--Frayed Wiring
+						 228721,		--Hearty Feast
+						 228921,		--Griftah's Heavy-Duty Embellishing Powder
+						 228930,		--Adorning Ribbon
+						 228956}		--Junk Bucket
+
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
 		if reagents[i] == itemID then
@@ -2142,6 +2970,9 @@ function expansionReagentsFrameOnShow()
 			ExpansionAdded = true
 		elseif expansionReagentsFindReagent(itemID, ExpansionReagents.dragonflight) then
 			GameTooltip:AddLine("Dragonflight")
+			ExpansionAdded = true
+		elseif expansionReagentsFindReagent(itemID, ExpansionReagents.tww) then
+			GameTooltip:AddLine("The War Within")
 			ExpansionAdded = true
 		end
 	end
