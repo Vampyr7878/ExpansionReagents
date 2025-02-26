@@ -4,15 +4,15 @@
 ## Author: Vampyr78
 ## Version: 2.1.0
 ## IconTexture: Interface\Icons\inv_misc_note_01.blp
-## Category-enUS: Inventory
-## Category-deDE: Inventar
-## Category-esES: Inventario
-## Category-esMX: Inventario
-## Category-frFR: Inventaire
-## Category-itIT: Inventario
-## Category-koKR: 소지품
-## Category-ptBR: Inventário
-## Category-ruRU: Предметы
-## Category-zhCN: 物品栏
-## Category-zhTW: 物品欄
+## Category-enUS: Professions
+## Category-deDE: Berufe
+## Category-esES: Profesiones
+## Category-esMX: Profesiones
+## Category-frFR: Métiers
+## Category-itIT: Professioni
+## Category-koKR: 전문 기술
+## Category-ptBR: Profissões
+## Category-ruRU: Профессии
+## Category-zhCN: 专业
+## Category-zhTW: 專業技能
 ExpansionReagents.lua
