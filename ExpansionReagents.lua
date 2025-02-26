@@ -2926,7 +2926,19 @@ ExpansionReagents.tww = {210221,		--Forged Combatant's Heraldry
 						 228721,		--Hearty Feast
 						 228921,		--Griftah's Heavy-Duty Embellishing Powder
 						 228930,		--Adorning Ribbon
-						 228956}		--Junk Bucket
+						 228956,		--Junk Bucket
+						 230906,		--Spark of Fortunes
+						 235845,		--Undermine Clam Meat
+						 230935,		--Enchanted Gilded Undermine Crest
+						 230936,		--Enchanted Runed Undermine Crest
+						 230905,		--Fractured Spark of Fortunes
+						 229390,		--Prized Gladiator's Heraldry
+						 230937,		--Enchanted Weathered Undermine Crest
+						 230985,		--Nascent Runed Undermine Crest
+						 229389,		--Prized Aspirant's Heraldry
+						 230987,		--Nascent Weathered Undermine Crest
+						 230986,		--Nascent Gilded Undermine Crest
+						 229388}		--Prized Combatant's Heraldry
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do

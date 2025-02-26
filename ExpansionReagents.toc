@@ -1,7 +1,18 @@
-## Interface: 110007
+## Interface: 110100
 ## Title: Expansion Reagents
 ## Notes: Adds information what expansion given crafting reagent belongs to
 ## Author: Vampyr78
-## Version: 2.0.1
+## Version: 2.1.0
 ## IconTexture: Interface\Icons\inv_misc_note_01.blp
+## Category-enUS: Inventory
+## Category-deDE: Inventar
+## Category-esES: Inventario
+## Category-esMX: Inventario
+## Category-frFR: Inventaire
+## Category-itIT: Inventario
+## Category-koKR: 소지품
+## Category-ptBR: Inventário
+## Category-ruRU: Предметы
+## Category-zhCN: 物品栏
+## Category-zhTW: 物品欄
 ExpansionReagents.lua
