@@ -1,8 +1,8 @@
-## Interface: 110100
+## Interface: 110107
 ## Title: Expansion Reagents
 ## Notes: Adds information what expansion given crafting reagent belongs to
 ## Author: Vampyr78
-## Version: 2.1.0
+## Version: 2.1.1
 ## IconTexture: Interface\Icons\inv_misc_note_01.blp
 ## Category-enUS: Professions
 ## Category-deDE: Berufe

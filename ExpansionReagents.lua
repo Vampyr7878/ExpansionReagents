@@ -11,6 +11,7 @@ ExpansionReagents.classic = {723,		--Goretusk Liver
 							 818,		--Tigerseye
 							 1015,		--Lean Wolf Flank
 							 1080,		--Tough Condor Meat
+							 1179,		--Ice Cold Milk
 							 1206,		--Moss Agate
 							 1210,		--Shadowgem
 							 1288,		--Large Venom Sac
@@ -2938,7 +2939,13 @@ ExpansionReagents.tww = {210221,		--Forged Combatant's Heraldry
 						 229389,		--Prized Aspirant's Heraldry
 						 230987,		--Nascent Weathered Undermine Crest
 						 230986,		--Nascent Gilded Undermine Crest
-						 229388}		--Prized Combatant's Heraldry
+						 229388,		--Prized Combatant's Heraldry
+						 238924,		--Void-Bound Orb of Mystery
+						 239105,		--Unusual Gems
+						 239106,		--Shadow Infused Onyx
+						 239107,		--Black Blood Infused Bar
+						 239146,		--Gilded Augmentation Matrix
+						 239203}		--Runed Augmentation Matrix
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
