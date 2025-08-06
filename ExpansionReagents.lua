@@ -2928,24 +2928,44 @@ ExpansionReagents.tww = {210221,		--Forged Combatant's Heraldry
 						 228921,		--Griftah's Heavy-Duty Embellishing Powder
 						 228930,		--Adorning Ribbon
 						 228956,		--Junk Bucket
+						 229388,		--Prized Combatant's Heraldry
+						 229389,		--Prized Aspirant's Heraldry
+						 229390,		--Prized Gladiator's Heraldry
+						 230285,		--Astral Combatant's Heraldry
+						 230286,		--Astral Aspirant's Heraldry
+						 230287,		--Astral Gladiator's Heraldry
+						 230905,		--Fractured Spark of Fortunes
 						 230906,		--Spark of Fortunes
-						 235845,		--Undermine Clam Meat
 						 230935,		--Enchanted Gilded Undermine Crest
 						 230936,		--Enchanted Runed Undermine Crest
-						 230905,		--Fractured Spark of Fortunes
-						 229390,		--Prized Gladiator's Heraldry
 						 230937,		--Enchanted Weathered Undermine Crest
 						 230985,		--Nascent Runed Undermine Crest
-						 229389,		--Prized Aspirant's Heraldry
-						 230987,		--Nascent Weathered Undermine Crest
 						 230986,		--Nascent Gilded Undermine Crest
-						 229388,		--Prized Combatant's Heraldry
+						 230987,		--Nascent Weathered Undermine Crest
+						 231756,		--Spark of Starlight
+						 231757,		--Fractured Spark of Starlight
+						 231767,		--Enchanted Weathered Ethereal Crest
+						 231768,		--Enchanted Gilded Ethereal Crest
+						 231769,		--Enchanted Runed Ethereal Crest
+						 231774,		--Nascent Weathered Ethereal Crest
+						 231775,		--Nascent Gilded Ethereal Crest
+						 231776,		--Nascent Runed Ethereal Crest
+						 235845,		--Undermine Clam Meat
+						 238201,		--Desolate Talus
+						 238212,		--Desolate Talus
+						 238213,		--Desolate Talus
 						 238924,		--Void-Bound Orb of Mystery
 						 239105,		--Unusual Gems
 						 239106,		--Shadow Infused Onyx
 						 239107,		--Black Blood Infused Bar
 						 239146,		--Gilded Augmentation Matrix
-						 239203}		--Runed Augmentation Matrix
+						 239203,		--Runed Augmentation Matrix
+						 239690,		--Phantom Bloom
+						 239691,		--Phantom Bloom
+						 239692,		--Phantom Bloom
+						 240194,		--K'areshi Lotus
+						 240216,		--K'areshi Resonating Stone
+						 249218}		--Manaforged Instrument
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
