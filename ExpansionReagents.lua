@@ -392,7 +392,8 @@ ExpansionReagents.classic = {723,		--Goretusk Liver
 							 108341,	--Mountain Silversage Stalk
 							 108342,	--Sorrowmoss Leaf
 							 108343,	--Icecap Petal
-							 156930}	--Rich Illusion Dust
+							 156930,	--Rich Illusion Dust
+							 245586}	--Ironwood Lumber
 
 ExpansionReagents.tbc = {20816,		--Delicate Copper Wire
 						 20817,		--Bronze Setting
@@ -541,7 +542,8 @@ ExpansionReagents.tbc = {20816,		--Delicate Copper Wire
 						 112182,	--Patch of Fel Hide
 						 112183,	--Nether Dragonscale Fragment
 						 112184,	--Cobra Scale Fragment
-						 112185}	--Wind Scale Fragment
+						 112185,	--Wind Scale Fragment
+						 242691}	--Olemba Lumber
 
 ExpansionReagents.wotlk = {33470,		--Frostweave Cloth
 						   33567,		--Borean Leather Scraps
@@ -672,7 +674,8 @@ ExpansionReagents.wotlk = {33470,		--Frostweave Cloth
 						   108391,		--Titanium Ore Nugget
 						   112158,		--Icy Dragonscale Fragment
 						   112177,		--Nerubian Chitin Fragment
-						   112178}		--Jormungar Scale Fragment
+						   112178,		--Jormungar Scale Fragment
+						   251762}		--Coldwind Lumber
 
 ExpansionReagents.cataclysm = {51950,		--Pyrium Bar
 							   52078,		--Chaos Orb
@@ -779,7 +782,8 @@ ExpansionReagents.cataclysm = {51950,		--Pyrium Bar
 							   108365,		--Whiptail Stem
 							   112155,		--Deepsea Scale Fragment
 							   112156,		--Blackened Dragonscale Fragment
-							   204356}		--Illustrious Gemdust
+							   204356,		--Illustrious Gemdust
+							   251764}		--Ashwood Lumber
 
 ExpansionReagents.mop = {72092,		--Ghost Iron Ore
 						 72093,		--Kyparite
@@ -900,7 +904,8 @@ ExpansionReagents.mop = {72092,		--Ghost Iron Ore
 						 102541,	--Aged Balsamic Vinegar
 						 102542,	--Ancient Pandaren Spices
 						 102543,	--Aged Mogu'shan Cheese
-						 112157}	--Prismatic Scale Fragment
+						 112157,	--Prismatic Scale Fragment
+						 251763}	--Bamboo Lumber
 
 ExpansionReagents.wod = {108257,		--Truesteel Ingot
 						 108996,		--Alchemical Catalyst
@@ -1009,7 +1014,8 @@ ExpansionReagents.wod = {108257,		--Truesteel Ingot
 						 202209,		--Remarkable Steelforged Essence
 						 202215,		--Remarkable True Iron Trigger
 						 202211,		--Remarkable Truesteel Essence
-						 202221}		--Remarkable Weapon Crystal
+						 202221,		--Remarkable Weapon Crystal
+						 251766}		--Shadowmoon Lumber
 
 ExpansionReagents.legion = {123918,		--Leystone Ore
 							123919,		--Felslate
@@ -1114,7 +1120,8 @@ ExpansionReagents.legion = {123918,		--Leystone Ore
 							151719,		--Lightsphene
 							151720,		--Chemirine
 							151721,		--Hesselian
-							151722}		--Florid Malachite
+							151722,		--Florid Malachite
+							251767}		--Fel-Touched Lumber
 
 ExpansionReagents.bfa = {152505,		--Riverbud
 						 152506,		--Star Moss
@@ -1238,7 +1245,8 @@ ExpansionReagents.bfa = {152505,		--Riverbud
 						 169610,		--S.P.A.R.E. Crate
 						 174327,		--Malformed Gnasher
 						 174328,		--Aberrant Voidfin
-						 174353}		--Questionable Meat
+						 174353,		--Questionable Meat
+						 251768}		--Darkpine Lumber
 
 ExpansionReagents.shadowlands = {168583,		--Widowbloom
 								 168586,		--Rising Glory
@@ -1475,7 +1483,8 @@ ExpansionReagents.shadowlands = {168583,		--Widowbloom
 								 189500,		--Cervid Lattice
 								 189501,		--Protoform Tool
 								 190388,		--Lupine Lattice
-								 191781}		--Vestige of the Devourers
+								 191781,		--Vestige of the Devourers
+								 251772}		--Arden Lumber
 
 ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  188658,		--Draconium Ore
@@ -2099,7 +2108,8 @@ ExpansionReagents.dragonflight = {187617,		--Tempered Djaradin Steel
 								  212538,		--Greater Verdant Trophy of Conquest
 								  212539,		--Lesser Verdant Crest of Honor
 								  212540,		--Verdant Crest of Honor
-								  212541}		--Greater Verdant Crest of Honor
+								  212541,		--Greater Verdant Crest of Honor
+								  251773}		--Dragonpine Lumber
 
 ExpansionReagents.tww = {210221,		--Forged Combatant's Heraldry
 						 210232,		--Forged Aspirant's Heraldry
@@ -2965,7 +2975,21 @@ ExpansionReagents.tww = {210221,		--Forged Combatant's Heraldry
 						 239692,		--Phantom Bloom
 						 240194,		--K'areshi Lotus
 						 240216,		--K'areshi Resonating Stone
-						 249218}		--Manaforged Instrument
+						 248012,		--Dornic Fir Lumber
+						 249218,		--Manaforged Instrument
+						 251993,		--Gilded Starlight Matrix
+						 251994,		--Runed Starlight Matrix
+						 259894,		--Perfect Preservatives
+						 260947,		--White Dye Pigment
+						 262625,		--Purple Dye Pigment
+						 262628,		--Teal Dye Pigment
+						 262639,		--Black Dye Pigment
+						 262642,		--Brown Dye Pigment
+						 262643,		--Blue Dye Pigment
+						 262647,		--Green Dye Pigment
+						 262648,		--Yellow Dye Pigment
+						 262655,		--Red Dye Pigment
+						 262656}		--Orange Dye Pigment
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
