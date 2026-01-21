@@ -2991,6 +2991,293 @@ ExpansionReagents.tww = {210221,		--Forged Combatant's Heraldry
 						 262655,		--Red Dye Pigment
 						 262656}		--Orange Dye Pigment
 
+ExpansionReagents.midnight = {236949,		--Mote of Light
+							  236951,		--Mote of Wild Magic
+							  236950,		--Mote of Primal Energy
+							  242640,		--Plant Protein
+							  243060,		--Luminant Flux
+							  245345,		--Fused Vitality
+							  236952,		--Mote of Pure Void
+							  241281,		--Composite Flora
+							  241282,		--Wondrous Synergist
+							  251283,		--Tormented Tantalum
+							  238529,		--Majestic Hide
+							  239198,		--Arcanoweave Bolt
+							  238525,		--Fantastic Fur
+							  242639,		--Practically Pork
+							  239201,		--Sunfire Silk Bolt
+							  242651,		--Stabilized Derivate
+							  236774,		--Azeroot
+							  236780,		--Nocturnal Lotus
+							  238528,		--Majestic Claw
+							  232875,		--Spark of Radiance
+							  238530,		--Majestic Fin
+							  245766,		--Soul Cipher
+							  237018,		--Arcanoweave
+							  237505,		--Artisan's Moxie
+							  244675,		--Devouring Banding
+							  242788,		--Duskshrouded Stone
+							  237362,		--Umbral Tin Ore
+							  237366,		--Dazzling Thorium
+							  243602,		--Radiant Shard
+							  245873,		--Darkmoon Sigil: Void
+							  245876,		--Darkmoon Sigil: Hunt
+							  244633,		--Infused Scalewoven Hide
+							  240974,		--Kaleidoscopic Prism
+							  251923,		--Thalassian Essence of the Faire
+							  237359,		--Refulgent Copper Ore
+							  239702,		--Imbued Bright Linen Bolt
+							  238204,		--Sterling Alloy
+							  243581,		--Evercore
+							  238369,		--Bloomtail Minnow
+							  247724,		--Multicraft Manifold
+							  236761,		--Tranquility Bloom
+							  238523,		--Carving Canine
+							  244704,		--Consistent Cogwheel
+							  241283,		--Wondrous Synergist
+							  236778,		--Mana Lily
+							  238520,		--Void-Tempered Plating
+							  239700,		--Bright Linen Bolt
+							  238513,		--Void-Tempered Scales
+							  251285,		--Petrified Root
+							  245764,		--Codified Azeroot
+							  247788,		--Ingenious Identity
+							  238521,		--Void-Tempered Plating
+							  238522,		--Peerless Plumage
+							  243605,		--Dawn Crystal
+							  238380,		--Null Voidfish
+							  246449,		--Mentor's Helpful Handiwork
+							  242621,		--Glimmering Gemdust
+							  243606,		--Dawn Crystal
+							  247719,		--Multicraft Matrix
+							  242610,		--Flawless Harandar Peridot
+							  243578,		--Aetherlume
+							  244608,		--Primal Spore Binding
+							  245830,		--Ace of Hunt
+							  246447,		--Apprentice's Scribbles
+							  236779,		--Mana Lily
+							  236963,		--Bright Linen
+							  239202,		--Sunfire Silk Bolt
+							  242620,		--Glimmering Gemdust
+							  244698,		--Flux Cogwheel
+							  238202,		--Gloaming Alloy
+							  238518,		--Void-Tempered Hide
+							  243599,		--Eversinging Dust
+							  240167,		--Arcanoweave Lining
+							  244674,		--Devouring Banding
+							  248130,		--Lucky Keychain
+							  236770,		--Sanguithorn
+							  242608,		--Eversong Diamond
+							  253307,		--Infused Heliotrope
+							  240991,		--Sunglass Vial
+							  244638,		--Silvermoon Weapon Wrap
+							  245805,		--Sienna Ink
+							  251665,		--Silverleaf Thread
+							  253403,		--Thalassian Filet
+							  253302,		--Malleable Wireframe
+							  242789,		--Duskshrouded Stone
+							  244631,		--Scalewoven Hide
+							  246448,		--Artisan's Ledger
+							  247726,		--Resourceful Routing
+							  237015,		--Sunfire Silk
+							  242726,		--Flawless Harandar Peridot
+							  245871,		--Darkmoon Sigil: Blood
+							  245875,		--Darkmoon Sigil: Hunt
+							  244636,		--Sin'dorei Armor Banding
+							  238197,		--Refulgent Copper Ingot
+							  245881,		--Lexicologist's Vellum
+							  256608,		--Galactic Gladiator's Heraldry
+							  236777,		--Argentleaf
+							  237363,		--Umbral Tin Ore
+							  238511,		--Void-Tempered Leather
+							  238514,		--Void-Tempered Scales
+							  243574,		--Song Gear
+							  243582,		--Evercore
+							  265803,		--Bazaar Bites
+							  245821,		--Thalassian Missive of Crafting Speed
+							  245827,		--Thalassian Missive of Deftness
+							  240975,		--Kaleidoscopic Prism
+							  245802,		--Munsell Ink
+							  247725,		--Resourceful Rebar
+							  236775,		--Azeroot
+							  236776,		--Argentleaf
+							  237016,		--Sunfire Silk
+							  239611,		--Pure Loanite
+							  242720,		--Harandar Peridot
+							  245791,		--Thalassian Missive of the Quickblade
+							  251489,		--Stabilizing Gemstone Bandolier
+							  238372,		--Restored Songfish
+							  238377,		--Blood Hunter
+							  244635,		--Sin'dorei Armor Banding
+							  245801,		--Munsell Ink
+							  245847,		--Ace of Rot
+							  246450,		--Artisan's Consortium Gold Star
+							  237365,		--Brilliant Silver Ore
+							  238198,		--Refulgent Copper Ingot
+							  238203,		--Gloaming Alloy
+							  243600,		--Eversinging Dust
+							  245817,		--Thalassian Missive of Resourcefulness
+							  238366,		--Lynxfish
+							  238373,		--Ominous Octopus
+							  244637,		--Silvermoon Weapon Wrap
+							  245767,		--Soul Cipher
+							  245835,		--Six of Hunt
+							  256559,		--Galactic Combatant's Heraldry
+							  242606,		--Tenebrous Amethyst
+							  242723,		--Sanguine Garnet
+							  243603,		--Radiant Shard
+							  251691,		--Embroidery Floss
+							  253303,		--Pile of Junk
+							  244701,		--Perfected Cogwheel
+							  251490,		--Stabilizing Gemstone Bandolier
+							  238368,		--Twisted Tetra
+							  238382,		--Gore Guppy
+							  238383,		--Eversong Trout
+							  244632,		--Scalewoven Hide
+							  245882,		--Thalassian Songwater
+							  260630,		--Ingenious Identifier
+							  239200,		--Arcanoweave Bolt
+							  242607,		--Harandar Peridot
+							  242641,		--Cooking Spirits
+							  242646,		--Pouch of Spices
+							  242727,		--Flawless Amani Lapis
+							  240165,		--Sunfire Silk Lining
+							  244607,		--Primal Spore Binding
+							  245785,		--Thalassian Missive of the Fireflash
+							  245816,		--Thalassian Missive of Resourcefulness
+							  238367,		--Root Crab
+							  238370,		--Shimmer Spinefish
+							  238371,		--Arcane Wyrmfish
+							  238376,		--Lucky Loa
+							  240990,		--Sunglass Vial
+							  238365,		--Sin'dorei Swarmer
+							  236965,		--Bright Linen
+							  237364,		--Brilliant Silver Ore
+							  239703,		--Imbued Bright Linen Bolt
+							  242553,		--Sanguine Garnet
+							  242712,		--Eversong Diamond
+							  247811,		--Oil of Heartwood
+							  240164,		--Sunfire Silk Lining
+							  245815,		--Thalassian Missive of Ingenuity
+							  245818,		--Thalassian Missive of Multicraft
+							  248132,		--Kinetic Ankle Primers
+							  248133,		--Kinetic Ankle Primers
+							  238381,		--Hollow Grouper
+							  241280,		--Composite Flora
+							  245839,		--Two of Void
+							  245854,		--Eight of Rot
+							  245861,		--Six of Blood
+							  245863,		--Eight of Blood
+							  245865,		--Sanguithorn Pigment
+							  236767,		--Tranquility Bloom
+							  237361,		--Refulgent Copper Ore
+							  242611,		--Flawless Tenebrous Amethyst
+							  242721,		--Tenebrous Amethyst
+							  243576,		--Soul Sprocket
+							  244603,		--Blessed Pango Charm
+							  244604,		--Blessed Pango Charm
+							  245824,		--Thalassian Missive of Perception
+							  245826,		--Thalassian Missive of Deftness
+							  251487,		--Prismatic Focusing Iris
+							  238375,		--Fungalskin Pike
+							  238378,		--Shimmersiren
+							  240972,		--Sin'dorei Lens
+							  240973,		--Sin'dorei Lens
+							  242786,		--Crystalline Glass
+							  242787,		--Crystalline Glass
+							  245844,		--Seven of Void
+							  245856,		--Ace of Blood
+							  245867,		--Mana Lily Pigment
+							  237017,		--Arcanoweave
+							  238205,		--Sterling Alloy
+							  238512,		--Void-Tempered Leather
+							  238519,		--Void-Tempered Hide
+							  239701,		--Bright Linen Bolt
+							  242554,		--Amani Lapis
+							  242613,		--Flawless Sanguine Garnet
+							  242645,		--Ripened Vegetable Assortment
+							  242722,		--Amani Lapis
+							  242724,		--Flawless Sanguine Garnet
+							  243579,		--Aetherlume
+							  265801,		--Savory Anomaly
+							  240166,		--Arcanoweave Lining
+							  245786,		--Thalassian Missive of the Fireflash
+							  245792,		--Thalassian Missive of the Quickblade
+							  245814,		--Thalassian Missive of Ingenuity
+							  245822,		--Thalassian Missive of Finesse
+							  245825,		--Thalassian Missive of Perception
+							  251488,		--Prismatic Focusing Iris
+							  238374,		--Tender Lumifin
+							  245804,		--Argentleaf Pigment
+							  245806,		--Sienna Ink
+							  245807,		--Powder Pigment
+							  245834,		--Five of Hunt
+							  245838,		--Ace of Void
+							  245843,		--Six of Void
+							  245852,		--Six of Rot
+							  245857,		--Two of Blood
+							  245859,		--Four of Blood
+							  256607,		--Galactic Aspirant's Heraldry
+							  244705,		--Mini-Medical Team
+							  236771,		--Sanguithorn
+							  242612,		--Flawless Amani Lapis
+							  242642,		--Thalassian Herbs
+							  242643,		--A Big Ol' Stick of Butter
+							  242647,		--Tavern Fixings
+							  242725,		--Flawless Tenebrous Amethyst
+							  243575,		--Song Gear
+							  243577,		--Soul Sprocket
+							  244697,		--Flux Cogwheel
+							  244699,		--Greased Cogwheel
+							  244700,		--Greased Cogwheel
+							  244702,		--Perfected Cogwheel
+							  244703,		--Consistent Cogwheel
+							  244706,		--Mini-Medical Team
+							  245781,		--Thalassian Missive of the Aurora
+							  245782,		--Thalassian Missive of the Aurora
+							  245783,		--Thalassian Missive of the Feverflare
+							  245784,		--Thalassian Missive of the Feverflare
+							  245787,		--Thalassian Missive of the Harmonious
+							  245788,		--Thalassian Missive of the Harmonious
+							  245789,		--Thalassian Missive of the Peerless
+							  245790,		--Thalassian Missive of the Peerless
+							  245819,		--Thalassian Missive of Multicraft
+							  245820,		--Thalassian Missive of Crafting Speed
+							  245823,		--Thalassian Missive of Finesse
+							  245872,		--Darkmoon Sigil: Blood
+							  245874,		--Darkmoon Sigil: Void
+							  245877,		--Darkmoon Sigil: Rot
+							  245878,		--Darkmoon Sigil: Rot
+							  238379,		--Warping Wise
+							  238384,		--Sunwell Fish
+							  244634,		--Infused Scalewoven Hide
+							  245765,		--Codified Azeroot
+							  245803,		--Argentleaf Pigment
+							  245808,		--Powder Pigment
+							  245831,		--Two of Hunt
+							  245832,		--Three of Hunt
+							  245833,		--Four of Hunt
+							  245836,		--Seven of Hunt
+							  245837,		--Eight of Hunt
+							  245840,		--Three of Void
+							  245841,		--Four of Void
+							  245842,		--Five of Void
+							  245845,		--Eight of Void
+							  245848,		--Two of Rot
+							  245849,		--Three of Rot
+							  245850,		--Four of Rot
+							  245851,		--Five of Rot
+							  245853,		--Seven of Rot
+							  245858,		--Three of Blood
+							  245860,		--Five of Blood
+							  245862,		--Seven of Blood
+							  245864,		--Sanguithorn Pigment
+							  245866,		--Mana Lily Pigment
+							  243248,		--Anomaly Filament
+							  243302,		--Aquarius Bloom
+							  243342,		--Bloom Bauble
+							  243343}		--Angler's Anomaly
+
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
 		if reagents[i] == itemID then
