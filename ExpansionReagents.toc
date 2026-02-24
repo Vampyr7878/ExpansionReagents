@@ -2,7 +2,7 @@
 ## Title: Expansion Reagents
 ## Notes: Adds information what expansion given crafting reagent belongs to
 ## Author: Vampyr78
-## Version: 3.0
+## Version: 3.0.1
 ## IconTexture: Interface\Icons\inv_misc_note_01.blp
 ## Category-enUS: Professions
 ## Category-deDE: Berufe
