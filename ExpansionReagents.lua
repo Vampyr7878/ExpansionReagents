@@ -3324,6 +3324,9 @@ function expansionReagentsFrameOnShow()
 		elseif expansionReagentsFindReagent(itemID, ExpansionReagents.tww) then
 			GameTooltip:AddLine("The War Within")
 			ExpansionAdded = true
+		elseif expansionReagentsFindReagent(itemID, ExpansionReagents.midnight) then
+			GameTooltip:AddLine("Midnight")
+			ExpansionAdded = true
 		end
 	end
 end
