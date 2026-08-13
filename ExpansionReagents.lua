@@ -3276,7 +3276,53 @@ ExpansionReagents.midnight = {236949,		--Mote of Light
 							  243248,		--Anomaly Filament
 							  243302,		--Aquarius Bloom
 							  243342,		--Bloom Bauble
-							  243343}		--Angler's Anomaly
+							  243343,		--Angler's Anomaly
+							  270898,		--Snakeskin Lining
+							  270899,		--Snakeskin Lining
+							  273056,		--Odious Alloy
+							  273057,		--Odious Alloy
+							  273059,		--Hunter's Ritual Stone
+							  273060,		--Hunter's Ritual Stone
+							  273062,		--Coiled Snake-Eye
+							  273063,		--Coiled Snake-Eye
+							  273065,		--Polished Ammolite
+							  273066,		--Polished Ammolite
+							  273068,		--Adorned Fang
+							  273069,		--Adorned Fang
+							  274476,		--Spark of Tides
+							  274587,		--Spotted Killifish
+							  274588,		--Toxic Tlhapi
+							  274589,		--Ula'tek Snakehead
+							  274590,		--Sulfurous Sludgefish
+							  274591,		--Coiled Stargorger
+							  274592,		--Dirty Darter
+							  274593,		--Blightswarmer
+							  274594,		--Polluted Puffer
+							  274595,		--Pristine Polygon
+							  274596,		--Beached Asteroid
+							  274597,		--Bulbous Benthos
+							  274680,		--Loa-Blessed Orb
+							  274777,		--Neutralized Venom Clot
+							  274781,		--Cursebound Globe
+							  275280,		--Gamey Flank
+							  275281,		--Folded Wing
+							  275282,		--Smooth Loin
+							  275283,		--Amphibious Scrap
+							  275284,		--Slobbery Tongue
+							  275285,		--Malleable Root
+							  275286,		--Leafy Appendage
+							  275287,		--Cellular Slab
+							  275288,		--Photosynthesized Scrap
+							  275289,		--Winged Stalk
+							  275380,		--Venomous Combatant's Heraldry
+							  275383,		--Venomous Aspirant's Heraldry
+							  275385,		--Venomous Gladiator's Heraldry
+							  279091,		--Oozing Goby
+							  279093,		--Giggling Skull
+							  279094,		--Grotesque Sturgeon
+							  279100,		--Many-Eyed Flounder
+							  279105,		--Twin-Headed Snipefish
+							  279106}		--Loathsome Anglerfish
 
 function expansionReagentsFindReagent(itemID, reagents)
 	for i = 1, table.getn(reagents) do
