@@ -1,4 +1,4 @@
-## Interface: 120101
+## Interface: 120100
 ## Title: Expansion Reagents
 ## Notes: Adds information what expansion given crafting reagent belongs to
 ## Author: Vampyr78
